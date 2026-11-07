@@ -2,7 +2,7 @@
 
 **Artist-researcher · Interaction designer · Founder of Vibeweaving**
 
-[Portfolio](https://shihwenhuang.com/) · [Vibeweaving](https://vibeweaving.com/) · [LinkedIn](https://www.linkedin.com/in/shihwen1212/) · [Contact](mailto:hello@vibeweaving.com)
+[Portfolio](https://shihwenhuang.com/) · [Vibeweaving](https://vibeweaving.com/) · [LinkedIn](https://www.linkedin.com/in/shihwen1212/) · [Instagram](https://www.instagram.com/_wenverse/) · [Contact](mailto:hello@vibeweaving.com)
 
 I'm Wen, a Taiwanese artist-researcher and interaction designer working across generative systems, computational craft and human–AI interaction.
 
